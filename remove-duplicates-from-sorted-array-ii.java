@@ -8,7 +8,7 @@
 // in this scenario till the count 2 collect the elemeent from nums[fast] to nums[slow]
 // and incrementing slow++ because slow task is collection of  particular element up to 2 only so that.
 //  always incrementing fast pointer to pass through all the elements in array
-// Your code here along with comments explaining your approach
+// Your code here along with comments explaining your approach:
 
 
 class Solution {
